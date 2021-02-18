@@ -1,2 +1,5 @@
 # chocolate-pizza
- one page with custome css
+# Lab 10 
+# Pair Programming :
+## Driver : Sajeda Araidah 
+## Motivetor : Nada Al-yousef 
